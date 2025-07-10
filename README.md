@@ -11,7 +11,7 @@ All projects are structured in standalone folders with optional Streamlit interf
 | Folder | Description |
 |--------|-------------|
 | [`01_dense_vs_sift`](./01_dense_vs_sift) | Compare Dense Feature Detector vs SIFT visually and interactively |
-| [`02_object_recognition_bovw`](./02_object_recognition_bovw) | Full pipeline: BoVW + SVM object recognizer with streamlit frontend |
+| [`02_object_recognition_bovw`](./02_object-recognition-bovw) | Full pipeline: BoVW + SVM object recognizer with streamlit frontend |
 
 ---
 
